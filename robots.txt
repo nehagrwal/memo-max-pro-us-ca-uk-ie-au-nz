@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/memo-max-pro-us-ca-uk-ie-au-nz/sitemap.xml
